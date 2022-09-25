@@ -22,7 +22,7 @@ Wechat：915218225
 
 ## 事项
 目前PRD正在用语雀重写中，在重新梳理的时候，发现PRD有些地方还是不是很严谨，因此打算重新用语雀写一份。
-<https://www.yuque.com/docs/share/01e3d0b8-1b20-4daf-99a7-dd5bcff3334c?# 《BOBLIEW_WMS_v1.1产品需求文档（仓储管理功能）》>
+<https://www.yuque.com/docs/share/01e3d0b8-1b20-4daf-99a7-dd5bcff3334c?#《BOBLIEW_WMS_v1.1产品需求文档（仓储管理功能）》>
 
 ## Others
 BOBLIEW_Server
