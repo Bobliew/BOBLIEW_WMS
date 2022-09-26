@@ -3,6 +3,7 @@ BOBLIEW_WMS in the building.
 
 ## 注意
 PRD和Axure原型被整合好放在语雀中，点击下方链接，即可获得整合好的PRD和Axure原型。
+
 <https://www.yuque.com/docs/share/01e3d0b8-1b20-4daf-99a7-dd5bcff3334c?#《BOBLIEW_WMS_v1.1产品需求文档（仓储管理功能）》>
 
 ## Introduction
